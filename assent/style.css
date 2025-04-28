@@ -1,0 +1,343 @@
+body{
+    border: 3px solid black;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 1435px;
+}
+.Tarjeta1{
+    border: 3px solid black;
+    position: absolute;
+    width: 335px;
+    height: 375px;
+    left: 220px;
+    top: 300px;
+    background-color: rgb(14, 137, 185);
+}
+.Tarjeta2{
+    border: 3px solid black;
+    position: absolute;
+    width: 335px;
+    height: 375px;
+    left: 750px;
+    top: 300px;
+    background-color: rgb(14, 137, 185);
+}
+.Tarjeta3{
+    border: 3px solid black;
+    position: absolute;
+    width: 335px;
+    height: 375px;
+    left: 220px;
+    top: 750px;
+    background-color: rgb(14, 137, 185);
+}
+.Tarjeta4{
+    border: 3px solid black;
+    position: absolute;
+    width: 335px;
+    height: 375px;
+    left: 750px;
+    top: 750px;
+    background-color: rgb(14, 137, 185);
+}
+.Tarjeta5{
+    border: 3px solid black;
+    position: absolute;
+    width: 335px;
+    height: 375px;
+    left: 220px;
+    top: 360px;
+    background-color: rgb(82, 202, 250);
+}
+.Tarjeta6{
+    border: 3px solid black;
+    position: absolute;
+    width: 335px;
+    height: 260px;
+    left: 750px;
+    top: 870px;
+    background-color: rgb(82, 202, 250);
+}
+nav{
+    display: flex;
+    justify-content: right;
+}
+a{
+    margin-right: 15px;
+}
+.cont1{
+    display: flex;
+    justify-content: center;
+    background-color: darkgrey;
+}
+.animal{
+    margin-right: 80px;
+}
+.Foto1{
+    position: absolute;
+    top: 10px;
+    border-radius: 100;
+    width: 1086px;
+    height: 200px;
+}
+.Foto2{
+    position: absolute;
+    top: 10px;
+    border-radius: 100;
+    width: 200px;
+    height: 180px;
+}
+.Foto3{
+    width: 170px;
+    height: 180px;
+    position: absolute;
+    left: 85px;
+    top: 90px;
+}
+.Foto4{
+    width: 170px;
+    height: 200px;
+    position: absolute;
+    left: 80px;
+    top: 90px;
+}
+.Foto5{
+    width: 190px;
+    height: 200px;
+    position: absolute;
+    left: 70px;
+    top: 90px;
+}
+.Foto6{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 70px;
+    top: 90px;
+}
+.Foto7{
+    position: absolute;
+    top: 1200px;
+    border-radius: 100;
+    width: 1085px;
+    height: 245px;
+}
+.Foto8{
+    position: absolute;
+    top: 1230px;
+    width: 200px;
+    height: 200px;
+    left: 1025px;
+}
+.Foto9{
+    position: absolute;
+    top: 650px;
+    border-radius: 10px;
+    border: 3px solid black;
+    width: 700px;
+    height: 350px;
+    left: 300px;
+}
+.Foto10{
+    position: absolute;
+    top: 10px;
+    border-radius: 100;
+    width: 1086px;
+    height: 200px;
+}
+.Foto11{
+    position: absolute;
+    top: 10px;
+    border-radius: 100;
+    width: 200px;
+    height: 180px;
+}
+.Foto12{
+    position: absolute;
+    top: 1200px;
+    border-radius: 100;
+    width: 1085px;
+    height: 245px;
+}
+.Foto13{
+    position: absolute;
+    top: 1230px;
+    width: 200px;
+    height: 200px;
+    left: 1025px;
+}
+.Foto14{
+    position: absolute;
+    top:365px;
+    width: 270px;
+    height: 450px;
+    left: 775px;
+}
+.Foto15{
+    position: absolute;
+    top:840px;
+    width: 370px;
+    height: 310px;
+    left: 250px;
+}
+.info{
+    position: absolute;
+    left: 360px;
+    top: 685px;
+}
+.info1{
+    position: absolute;
+    left: 360px;
+    top: 735px;
+}
+.info2{
+    position: absolute;
+    left: 360px;
+    top: 780px;
+}
+.info3{
+    position: absolute;
+    left: 360px;
+    top: 830px;
+}
+.info4{
+    position: absolute;
+    left: 360px;
+    top: 880px;
+}
+.gst{
+    position: absolute;
+    left: 130px;
+}
+.desc{
+    position: absolute;
+    left: 40px;
+    top: 280px;
+}
+.enlace{
+    position: absolute;
+    left: 150px;
+    top: 1180px;
+}
+.Cat{
+    position: absolute;
+    left: 545px;
+    top: 60px;
+}
+.i{
+    position: absolute;
+    top: 180px;
+    left: 500px;
+}
+.a{
+    position: absolute;
+    top: 180px;
+    left: 620px;
+}
+.c{
+    position: absolute;
+    top: 180px;
+    left: 780px;
+}
+.boton{
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    top: 550px;
+    left: 600px;
+}
+.dis{
+    position: absolute;
+    left: 150px;
+    top: 1250px;
+}
+.activa1{
+    position: absolute;
+    left: 480px;
+    top: 220px;
+}
+.activa2{
+    position: absolute;
+    left: 620px;
+    top: 220px;
+}
+.activa3{
+    position: absolute;
+    left: 800px;
+    top: 220px;
+}
+.nomape{
+    position: absolute;
+    left: 600px;
+    top: 500px;
+}
+.tele{
+    position: absolute;
+    left: 600px;
+    top: 450px;
+}
+.email{
+    position: absolute;
+    left: 600px;
+    top: 400px;
+}
+.come{
+    position: absolute;
+    left: 600px;
+    top: 350px;
+}
+.nomape1{
+    position: absolute;
+    left: 400px;
+    top: 350px;
+}
+.tele1{
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+.email1{
+    position: absolute;
+    left: 400px;
+    top: 450px;
+}
+.come1{
+    position: absolute;
+    left: 400px;
+    top: 500px;
+}
+.Nom{
+    position: absolute;
+    left: 170px;
+    top: 270px;
+}
+.funda{
+    position: absolute;
+    left: 15px;
+    top: 80px;
+}
+.funda1{
+    position: absolute;
+    left: 15px;
+    top: 115px;
+}
+.funda2{
+    position: absolute;
+    left: 15px;
+    top: 150px;
+}
+.funda3{
+    position: absolute;
+    left: 15px;
+    top: 185px;
+}
+.funda4{
+    position: absolute;
+    left: 15px;
+    top: 220px;
+}
+.funda5{
+    position: absolute;
+    left: 15px;
+    top: 50px;
+}
